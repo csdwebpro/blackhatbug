@@ -1,0 +1,13 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+urllib3==2.0.4
+python-nmap==0.7.1
+dnspython==2.4.2
+pyfiglet==0.8.post1
+colorama==0.4.6
+tqdm==4.65.0
+pillow==10.0.1
+lxml==4.9.3
+pyopenssl==23.2.0
+cryptography==41.0.7
+aiohttp==3.8.5
